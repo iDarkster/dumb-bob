@@ -6,6 +6,7 @@ public class BobBrain : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
     private Animator animator;
+    private AudioSource audioSource;
 
     // FOR MOVEMENT
     [SerializeField] float moveSpeed = 3f;
@@ -14,14 +15,15 @@ public class BobBrain : MonoBehaviour
 
     private bool grounded;
 
-    [SerializeField]private float jumpForce = 7f;
+    [SerializeField] private float jumpForce = 7f;
 
     // FOR RAYCAST
     [SerializeField] private Transform wallCheck;
     [SerializeField] private float checkDist = 0.43f;
 
     //FOR GROUND CHECK
-    [SerializeField] private Transform groundCheck;
+    [SerializeField] private Transform leftGroundCheck;
+    [SerializeField] private Transform rightGroundCheck;
     [SerializeField] private float groundCheckDist;
 
 
@@ -29,6 +31,8 @@ public class BobBrain : MonoBehaviour
     [SerializeField] private float whistleWindow = 0.25f;
     private bool waitingForSecondWhistle = false;
     private float whistleTimer = 0f;
+    [SerializeField] private AudioClip whistle1;
+    [SerializeField] private AudioClip whistle2;
 
 
     //Checking Raycast through external function that returns yes/no     
@@ -63,16 +67,23 @@ public class BobBrain : MonoBehaviour
 
     // GROUND CHECK
     private bool isGrounded()
-    {
-        RaycastHit2D ground = Physics2D.Raycast(groundCheck.position,Vector2.down,groundCheckDist,LayerMask.GetMask("Default"));
+{
+    int mask = LayerMask.GetMask("Default");
 
-        Debug.DrawRay(
-        groundCheck.position,
-        Vector2.down * groundCheckDist,
-        Color.green);
+    bool left =
+        Physics2D.Raycast(leftGroundCheck.position,
+                          Vector2.down,
+                          groundCheckDist,
+                          mask);
 
-        return ground.collider != null;
-    }
+    bool right =
+        Physics2D.Raycast(rightGroundCheck.position,
+                          Vector2.down,
+                          groundCheckDist,
+                          mask);
+
+    return left || right;
+}
 
     // WHEN WHISTLE IS GIVEN BY InputTaker.cs
     public void GotWhistle()
@@ -84,13 +95,14 @@ public class BobBrain : MonoBehaviour
             whistleTimer = whistleWindow;
 
             Debug.Log("FIRST REGISTERED");
-
+            audioSource.PlayOneShot(whistle1);
             waitingForSecondWhistle = true;
         }
         else
         {
             Debug.Log("GOT SECOND WHISTLE");
             waitingForSecondWhistle = false;
+            audioSource.PlayOneShot(whistle2);
             OnSecondWhistle(); // GOT THE SECOND WHISTLE
         }
 
@@ -102,17 +114,18 @@ public class BobBrain : MonoBehaviour
         {
             return;
         }
-        rb.linearVelocity = new Vector2(rb.linearVelocity.x,jumpForce);
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
     }
 
     void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>(); //initiation the rigidbody component
+        audioSource = GetComponent<AudioSource>();
     }
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>(); //initiation the rigidbody component
     }
 
     public void Die()
@@ -123,7 +136,8 @@ public class BobBrain : MonoBehaviour
     {
         grounded = isGrounded();
         animator.SetBool("Moving", IsMoving);
-        animator.SetBool("Grounded",grounded);
+        animator.SetBool("Grounded", grounded);
+        animator.SetFloat("VelY", rb.linearVelocity.y);
         if (IsWallAhead())// meaning we need to change direction
         {
             TurnAround();
@@ -136,13 +150,13 @@ public class BobBrain : MonoBehaviour
             if (whistleTimer <= 0f)
             {
                 waitingForSecondWhistle = false;
-                IsMoving =! IsMoving;// GOT THE FIRST WHISTLE BUT NO SECOND...
+                IsMoving = !IsMoving;// GOT THE FIRST WHISTLE BUT NO SECOND...
                 Debug.Log("TIMER ENDED");
             }
 
 
         }
-        
+
     }
     void FixedUpdate()
     {
