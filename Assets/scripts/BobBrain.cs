@@ -115,6 +115,10 @@ public class BobBrain : MonoBehaviour
         rb = GetComponent<Rigidbody2D>(); //initiation the rigidbody component
     }
 
+    public void Die()
+    {
+        Debug.Log("OH NO BoB DIED");
+    }
     void Update()
     {
         grounded = isGrounded();
