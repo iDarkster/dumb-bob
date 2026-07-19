@@ -414,6 +414,7 @@ GameObject:
   - component: {fileID: 641453156}
   - component: {fileID: 641453158}
   - component: {fileID: 641453159}
+  - component: {fileID: 641453160}
   m_Layer: 3
   m_Name: Bob
   m_TagString: Untagged
@@ -431,7 +432,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -6.4, y: 0.21, z: 0}
-  m_LocalScale: {x: 10, y: 10, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2045277432}
@@ -514,7 +515,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7928629845994636789, guid: 5a0e2229cd7104cda87db4c51ef57da9, type: 3}
+  m_Sprite: {fileID: -2276138821381322966, guid: e1d0572d52b1a4d7ea45de490d6777f0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -558,8 +559,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.0007025242, y: 0.004904866}
-  m_Size: {x: 0.18140517, y: 0.26019028}
+  m_Offset: {x: -0.017185807, y: -0.09619194}
+  m_Size: {x: 0.5440352, y: 0.80962944}
   m_Direction: 0
 --- !u!114 &641453159
 MonoBehaviour:
@@ -573,13 +574,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5c0768f369e54c4c8cb8980f4357a07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  moveSpeed: 3
+  moveSpeed: 3.5
   jumpForce: 7
   wallCheck: {fileID: 2045277432}
-  checkDist: 0.43
+  checkDist: 0.5
   groundCheck: {fileID: 1995323059}
   groundCheckDist: 0.5
   whistleWindow: 0.25
+--- !u!95 &641453160
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 641453153}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 21c77dcc105744192b84da233bbb54ca, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &747414459
 GameObject:
   m_ObjectHideFlags: 0
@@ -1310,7 +1333,7 @@ Transform:
   m_GameObject: {fileID: 1995323058}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.1, z: 0}
+  m_LocalPosition: {x: 0, y: -0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

@@ -4,11 +4,15 @@ public class BobBrain : MonoBehaviour
 {
     // FOR GAMEOBJECT
     private Rigidbody2D rb;
+    private SpriteRenderer spriteRenderer;
+    private Animator animator;
 
     // FOR MOVEMENT
     [SerializeField] float moveSpeed = 3f;
     private bool IsMoving = true;
     private int direction = 1;
+
+    private bool grounded;
 
     [SerializeField]private float jumpForce = 7f;
 
@@ -46,6 +50,8 @@ public class BobBrain : MonoBehaviour
     private void TurnAround()
     {
         direction *= -1;
+
+        spriteRenderer.flipX = direction < 0;
 
         wallCheck.localPosition = new Vector3(
             -wallCheck.localPosition.x,
@@ -92,11 +98,17 @@ public class BobBrain : MonoBehaviour
 
     private void OnSecondWhistle()
     {
-        if (!isGrounded())
+        if (!grounded)
         {
             return;
         }
         rb.linearVelocity = new Vector2(rb.linearVelocity.x,jumpForce);
+    }
+
+    void Awake()
+    {
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
     }
     void Start()
     {
@@ -105,6 +117,9 @@ public class BobBrain : MonoBehaviour
 
     void Update()
     {
+        grounded = isGrounded();
+        animator.SetBool("Moving", IsMoving);
+        animator.SetBool("Grounded",grounded);
         if (IsWallAhead())// meaning we need to change direction
         {
             TurnAround();

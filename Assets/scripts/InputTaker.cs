@@ -1,7 +1,9 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using System;
 public class InputTaker : MonoBehaviour
 {
+    public static event Action<Vector2> MoveInput;
     private UniversalInput controls;
 
     [SerializeField] BobBrain bob;
@@ -26,10 +28,9 @@ public class InputTaker : MonoBehaviour
     void Update()
     {
         Vector2 vector = controls.Allthings.Move.ReadValue<Vector2>();
-        Debug.Log(vector.x);
-        Debug.Log(vector.y);
+        MoveInput?.Invoke(vector);
     }
-
+}
 
 
 
@@ -83,4 +84,4 @@ public class InputTaker : MonoBehaviour
     //     }
     //     ;
     // }
-}
+
