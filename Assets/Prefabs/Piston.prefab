@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3889582173258298500}
   - component: {fileID: 4469899729306050805}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Crusher
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -101,7 +101,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4133874926396218136}
   - component: {fileID: 4992449137392779674}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bar (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -192,7 +192,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1421017554208497860}
   - component: {fileID: 1414829150952816636}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Support
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -282,7 +282,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8673741093648814773}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -318,7 +318,7 @@ GameObject:
   - component: {fileID: 9170712249820373917}
   - component: {fileID: 8441999002191151307}
   - component: {fileID: 4576549420120598037}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: MovablePart
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -430,7 +430,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5911748252630480956}
   - component: {fileID: 7697137492557749705}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bar (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -521,7 +521,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7186182016728487858}
   - component: {fileID: 4990308238398208558}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bar
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -2,11 +2,16 @@ using UnityEngine;
 
 public class BobBrain : MonoBehaviour
 {
+
+    // FOR DEATH
+    private bool isDead;
+    [SerializeField] private float knockbackForce = 2.5f;
     // FOR GAMEOBJECT
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
     private Animator animator;
     private AudioSource audioSource;
+    private Collider2D col;
 
     // FOR MOVEMENT
     [SerializeField] float moveSpeed = 3f;
@@ -67,27 +72,28 @@ public class BobBrain : MonoBehaviour
 
     // GROUND CHECK
     private bool isGrounded()
-{
-    int mask = LayerMask.GetMask("Default");
+    {
+        int mask = LayerMask.GetMask("Default");
 
-    bool left =
-        Physics2D.Raycast(leftGroundCheck.position,
-                          Vector2.down,
-                          groundCheckDist,
-                          mask);
+        bool left =
+            Physics2D.Raycast(leftGroundCheck.position,
+                              Vector2.down,
+                              groundCheckDist,
+                              mask);
 
-    bool right =
-        Physics2D.Raycast(rightGroundCheck.position,
-                          Vector2.down,
-                          groundCheckDist,
-                          mask);
+        bool right =
+            Physics2D.Raycast(rightGroundCheck.position,
+                              Vector2.down,
+                              groundCheckDist,
+                              mask);
 
-    return left || right;
-}
+        return left || right;
+    }
 
     // WHEN WHISTLE IS GIVEN BY InputTaker.cs
     public void GotWhistle()
     {
+        if (isDead) return;
         Debug.Log("GOT WHISTLE WUHUUU");
         // IsMoving = !IsMoving;   //Flipping IsMoving Flag
         if (!waitingForSecondWhistle)
@@ -123,6 +129,7 @@ public class BobBrain : MonoBehaviour
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>(); //initiation the rigidbody component
         audioSource = GetComponent<AudioSource>();
+        col=GetComponent<Collider2D>();
     }
     void Start()
     {
@@ -131,9 +138,23 @@ public class BobBrain : MonoBehaviour
     public void Die()
     {
         Debug.Log("OH NO BoB DIED");
+        if (isDead) return;
+        isDead = true;
+
+        col.sharedMaterial = null;
+
+        rb.linearVelocity = new Vector2(
+            -direction * knockbackForce,
+            2f
+        );
+
+        animator.SetTrigger("Death");
+
+
     }
     void Update()
     {
+        if (isDead) return;
         grounded = isGrounded();
         animator.SetBool("Moving", IsMoving);
         animator.SetBool("Grounded", grounded);
@@ -160,7 +181,15 @@ public class BobBrain : MonoBehaviour
     }
     void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(direction * (IsMoving ? moveSpeed : 0f), rb.linearVelocity.y);//physics movement ...takes VelX and VelY...Using ternary operator to decide MoveSpeed or zero
+        if (!isDead)
+        {
+            rb.linearVelocity = new Vector2(direction * (IsMoving ? moveSpeed : 0f), rb.linearVelocity.y);//physics movement ...takes VelX and VelY...Using ternary operator to decide MoveSpeed or zero
+        }
     }
+    public void DeathFinished()
+    {
+        Debug.Log("Death animation finished");
 
+        GameManager.Instance.ResetLevel();
+    }
 }
