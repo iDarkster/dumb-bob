@@ -5,6 +5,8 @@ public class FollowBob : MonoBehaviour
     [SerializeField] GameObject Bob;
     [SerializeField] float MinX = -1000;
     [SerializeField] float MaxX = 1000;
+    [SerializeField] float MinY = 1000;
+    [SerializeField] float MaxY = 1000;
 
     void Start()
     {
@@ -16,6 +18,7 @@ public class FollowBob : MonoBehaviour
         float CamX = BobPos.x;
         float CamY = BobPos.y;
         CamX=Mathf.Clamp(CamX,MinX,MaxX); //will figure out the limits later
+        CamY=Mathf.Clamp(CamY,MinY,MaxY); //will figure out the limits later
         float CamZ = transform.position.z;
 
         transform.position = new Vector3(CamX,CamY,CamZ);

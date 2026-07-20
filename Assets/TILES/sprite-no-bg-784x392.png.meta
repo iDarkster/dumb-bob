@@ -240,7 +240,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 360
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -262,7 +262,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 360
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -283,8 +283,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_2
       rect:
         serializedVersion: 2
-        x: 48
-        y: 344
+        x: 96
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -305,8 +305,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_3
       rect:
         serializedVersion: 2
-        x: 64
-        y: 344
+        x: 112
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -327,8 +327,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_4
       rect:
         serializedVersion: 2
-        x: 96
-        y: 344
+        x: 128
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -349,8 +349,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_5
       rect:
         serializedVersion: 2
-        x: 112
-        y: 344
+        x: 144
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -371,8 +371,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_6
       rect:
         serializedVersion: 2
-        x: 128
-        y: 344
+        x: 160
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -393,8 +393,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_7
       rect:
         serializedVersion: 2
-        x: 144
-        y: 344
+        x: 176
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -415,8 +415,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_8
       rect:
         serializedVersion: 2
-        x: 160
-        y: 344
+        x: 304
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -437,8 +437,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_9
       rect:
         serializedVersion: 2
-        x: 176
-        y: 344
+        x: 320
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -459,8 +459,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_10
       rect:
         serializedVersion: 2
-        x: 304
-        y: 344
+        x: 352
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -481,8 +481,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_11
       rect:
         serializedVersion: 2
-        x: 320
-        y: 344
+        x: 368
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -503,8 +503,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_12
       rect:
         serializedVersion: 2
-        x: 352
-        y: 344
+        x: 384
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -525,8 +525,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_13
       rect:
         serializedVersion: 2
-        x: 368
-        y: 344
+        x: 400
+        y: 345
         width: 16
         height: 16
       alignment: 0
@@ -547,8 +547,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_14
       rect:
         serializedVersion: 2
-        x: 384
-        y: 344
+        x: 48
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -569,8 +569,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_15
       rect:
         serializedVersion: 2
-        x: 400
-        y: 344
+        x: 64
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -591,8 +591,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_16
       rect:
         serializedVersion: 2
-        x: 528
-        y: 344
+        x: 80
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -613,8 +613,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_17
       rect:
         serializedVersion: 2
-        x: 544
-        y: 344
+        x: 96
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -635,8 +635,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_18
       rect:
         serializedVersion: 2
-        x: 576
-        y: 344
+        x: 112
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -657,8 +657,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_19
       rect:
         serializedVersion: 2
-        x: 48
-        y: 328
+        x: 128
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -679,8 +679,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_20
       rect:
         serializedVersion: 2
-        x: 64
-        y: 328
+        x: 144
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -701,8 +701,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_21
       rect:
         serializedVersion: 2
-        x: 80
-        y: 328
+        x: 160
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -723,8 +723,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_22
       rect:
         serializedVersion: 2
-        x: 96
-        y: 328
+        x: 176
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -745,8 +745,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_23
       rect:
         serializedVersion: 2
-        x: 112
-        y: 328
+        x: 208
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -767,8 +767,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_24
       rect:
         serializedVersion: 2
-        x: 128
-        y: 328
+        x: 224
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -789,8 +789,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_25
       rect:
         serializedVersion: 2
-        x: 144
-        y: 328
+        x: 240
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -811,8 +811,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_26
       rect:
         serializedVersion: 2
-        x: 160
-        y: 328
+        x: 304
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -833,8 +833,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_27
       rect:
         serializedVersion: 2
-        x: 208
-        y: 328
+        x: 320
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -855,8 +855,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_28
       rect:
         serializedVersion: 2
-        x: 224
-        y: 328
+        x: 336
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -877,8 +877,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_29
       rect:
         serializedVersion: 2
-        x: 240
-        y: 328
+        x: 352
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -899,8 +899,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_30
       rect:
         serializedVersion: 2
-        x: 304
-        y: 328
+        x: 368
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -921,8 +921,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_31
       rect:
         serializedVersion: 2
-        x: 320
-        y: 328
+        x: 384
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -943,8 +943,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_32
       rect:
         serializedVersion: 2
-        x: 336
-        y: 328
+        x: 448
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -965,8 +965,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_33
       rect:
         serializedVersion: 2
-        x: 352
-        y: 328
+        x: 464
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -987,8 +987,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_34
       rect:
         serializedVersion: 2
-        x: 368
-        y: 328
+        x: 480
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -1009,8 +1009,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_35
       rect:
         serializedVersion: 2
-        x: 384
-        y: 328
+        x: 528
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -1031,8 +1031,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_36
       rect:
         serializedVersion: 2
-        x: 448
-        y: 328
+        x: 544
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -1053,8 +1053,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_37
       rect:
         serializedVersion: 2
-        x: 464
-        y: 328
+        x: 560
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -1075,8 +1075,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_38
       rect:
         serializedVersion: 2
-        x: 480
-        y: 328
+        x: 576
+        y: 329
         width: 16
         height: 16
       alignment: 0
@@ -1097,8 +1097,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_39
       rect:
         serializedVersion: 2
-        x: 528
-        y: 328
+        x: 48
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1119,8 +1119,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_40
       rect:
         serializedVersion: 2
-        x: 544
-        y: 328
+        x: 64
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1141,8 +1141,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_41
       rect:
         serializedVersion: 2
-        x: 560
-        y: 328
+        x: 80
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1163,8 +1163,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_42
       rect:
         serializedVersion: 2
-        x: 576
-        y: 328
+        x: 96
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1185,8 +1185,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_43
       rect:
         serializedVersion: 2
-        x: 624
-        y: 328
+        x: 112
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1207,8 +1207,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_44
       rect:
         serializedVersion: 2
-        x: 48
-        y: 312
+        x: 128
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1229,8 +1229,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_45
       rect:
         serializedVersion: 2
-        x: 64
-        y: 312
+        x: 144
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1251,8 +1251,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_46
       rect:
         serializedVersion: 2
-        x: 80
-        y: 312
+        x: 304
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1273,8 +1273,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_47
       rect:
         serializedVersion: 2
-        x: 96
-        y: 312
+        x: 320
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1295,8 +1295,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_48
       rect:
         serializedVersion: 2
-        x: 112
-        y: 312
+        x: 336
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1317,8 +1317,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_49
       rect:
         serializedVersion: 2
-        x: 128
-        y: 312
+        x: 352
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1339,8 +1339,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_50
       rect:
         serializedVersion: 2
-        x: 144
-        y: 312
+        x: 368
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1361,8 +1361,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_51
       rect:
         serializedVersion: 2
-        x: 208
-        y: 312
+        x: 384
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1383,8 +1383,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_52
       rect:
         serializedVersion: 2
-        x: 224
-        y: 312
+        x: 400
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1405,8 +1405,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_53
       rect:
         serializedVersion: 2
-        x: 240
-        y: 312
+        x: 416
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1427,8 +1427,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_54
       rect:
         serializedVersion: 2
-        x: 256
-        y: 312
+        x: 432
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1449,8 +1449,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_55
       rect:
         serializedVersion: 2
-        x: 304
-        y: 312
+        x: 528
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1471,8 +1471,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_56
       rect:
         serializedVersion: 2
-        x: 320
-        y: 312
+        x: 544
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1493,8 +1493,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_57
       rect:
         serializedVersion: 2
-        x: 336
-        y: 312
+        x: 560
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1515,8 +1515,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_58
       rect:
         serializedVersion: 2
-        x: 352
-        y: 312
+        x: 576
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1537,8 +1537,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_59
       rect:
         serializedVersion: 2
-        x: 368
-        y: 312
+        x: 608
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1559,8 +1559,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_60
       rect:
         serializedVersion: 2
-        x: 384
-        y: 312
+        x: 624
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1581,8 +1581,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_61
       rect:
         serializedVersion: 2
-        x: 400
-        y: 312
+        x: 640
+        y: 313
         width: 16
         height: 16
       alignment: 0
@@ -1603,8 +1603,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_62
       rect:
         serializedVersion: 2
-        x: 416
-        y: 312
+        x: 48
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1625,8 +1625,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_63
       rect:
         serializedVersion: 2
-        x: 432
-        y: 312
+        x: 64
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1647,8 +1647,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_64
       rect:
         serializedVersion: 2
-        x: 448
-        y: 312
+        x: 80
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1669,8 +1669,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_65
       rect:
         serializedVersion: 2
-        x: 464
-        y: 312
+        x: 96
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1691,8 +1691,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_66
       rect:
         serializedVersion: 2
-        x: 480
-        y: 312
+        x: 112
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1713,8 +1713,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_67
       rect:
         serializedVersion: 2
-        x: 496
-        y: 312
+        x: 128
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1735,8 +1735,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_68
       rect:
         serializedVersion: 2
-        x: 528
-        y: 312
+        x: 144
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1757,8 +1757,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_69
       rect:
         serializedVersion: 2
-        x: 544
-        y: 312
+        x: 208
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1779,8 +1779,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_70
       rect:
         serializedVersion: 2
-        x: 560
-        y: 312
+        x: 224
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1801,8 +1801,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_71
       rect:
         serializedVersion: 2
-        x: 576
-        y: 312
+        x: 240
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1823,8 +1823,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_72
       rect:
         serializedVersion: 2
-        x: 608
-        y: 312
+        x: 256
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1845,8 +1845,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_73
       rect:
         serializedVersion: 2
-        x: 624
-        y: 312
+        x: 304
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1867,8 +1867,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_74
       rect:
         serializedVersion: 2
-        x: 640
-        y: 312
+        x: 320
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1889,8 +1889,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_75
       rect:
         serializedVersion: 2
-        x: 48
-        y: 296
+        x: 336
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1911,8 +1911,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_76
       rect:
         serializedVersion: 2
-        x: 64
-        y: 296
+        x: 352
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1933,8 +1933,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_77
       rect:
         serializedVersion: 2
-        x: 80
-        y: 296
+        x: 368
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1955,8 +1955,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_78
       rect:
         serializedVersion: 2
-        x: 96
-        y: 296
+        x: 384
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1977,8 +1977,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_79
       rect:
         serializedVersion: 2
-        x: 112
-        y: 296
+        x: 400
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -1999,8 +1999,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_80
       rect:
         serializedVersion: 2
-        x: 128
-        y: 296
+        x: 448
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -2021,8 +2021,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_81
       rect:
         serializedVersion: 2
-        x: 144
-        y: 296
+        x: 464
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -2043,8 +2043,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_82
       rect:
         serializedVersion: 2
-        x: 208
-        y: 296
+        x: 480
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -2065,8 +2065,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_83
       rect:
         serializedVersion: 2
-        x: 224
-        y: 296
+        x: 496
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -2087,8 +2087,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_84
       rect:
         serializedVersion: 2
-        x: 240
-        y: 296
+        x: 528
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -2109,8 +2109,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_85
       rect:
         serializedVersion: 2
-        x: 256
-        y: 296
+        x: 544
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -2131,8 +2131,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_86
       rect:
         serializedVersion: 2
-        x: 304
-        y: 296
+        x: 560
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -2153,8 +2153,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_87
       rect:
         serializedVersion: 2
-        x: 320
-        y: 296
+        x: 576
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -2175,8 +2175,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_88
       rect:
         serializedVersion: 2
-        x: 336
-        y: 296
+        x: 608
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -2197,8 +2197,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_89
       rect:
         serializedVersion: 2
-        x: 352
-        y: 296
+        x: 624
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -2219,8 +2219,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_90
       rect:
         serializedVersion: 2
-        x: 368
-        y: 296
+        x: 640
+        y: 297
         width: 16
         height: 16
       alignment: 0
@@ -2241,8 +2241,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_91
       rect:
         serializedVersion: 2
-        x: 384
-        y: 296
+        x: 48
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2263,8 +2263,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_92
       rect:
         serializedVersion: 2
-        x: 400
-        y: 296
+        x: 64
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2285,8 +2285,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_93
       rect:
         serializedVersion: 2
-        x: 448
-        y: 296
+        x: 80
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2307,8 +2307,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_94
       rect:
         serializedVersion: 2
-        x: 464
-        y: 296
+        x: 96
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2329,8 +2329,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_95
       rect:
         serializedVersion: 2
-        x: 480
-        y: 296
+        x: 112
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2351,8 +2351,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_96
       rect:
         serializedVersion: 2
-        x: 496
-        y: 296
+        x: 128
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2373,8 +2373,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_97
       rect:
         serializedVersion: 2
-        x: 528
-        y: 296
+        x: 144
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2395,8 +2395,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_98
       rect:
         serializedVersion: 2
-        x: 544
-        y: 296
+        x: 176
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2417,8 +2417,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_99
       rect:
         serializedVersion: 2
-        x: 560
-        y: 296
+        x: 192
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2439,8 +2439,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_100
       rect:
         serializedVersion: 2
-        x: 576
-        y: 296
+        x: 208
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2461,8 +2461,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_101
       rect:
         serializedVersion: 2
-        x: 608
-        y: 296
+        x: 224
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2483,8 +2483,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_102
       rect:
         serializedVersion: 2
-        x: 624
-        y: 296
+        x: 240
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2505,8 +2505,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_103
       rect:
         serializedVersion: 2
-        x: 640
-        y: 296
+        x: 304
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2527,8 +2527,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_104
       rect:
         serializedVersion: 2
-        x: 48
-        y: 280
+        x: 320
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2549,8 +2549,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_105
       rect:
         serializedVersion: 2
-        x: 64
-        y: 280
+        x: 336
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2571,8 +2571,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_106
       rect:
         serializedVersion: 2
-        x: 80
-        y: 280
+        x: 352
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2593,8 +2593,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_107
       rect:
         serializedVersion: 2
-        x: 96
-        y: 280
+        x: 368
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2615,8 +2615,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_108
       rect:
         serializedVersion: 2
-        x: 112
-        y: 280
+        x: 384
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2637,8 +2637,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_109
       rect:
         serializedVersion: 2
-        x: 128
-        y: 280
+        x: 400
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2659,8 +2659,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_110
       rect:
         serializedVersion: 2
-        x: 144
-        y: 280
+        x: 416
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2681,8 +2681,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_111
       rect:
         serializedVersion: 2
-        x: 160
-        y: 280
+        x: 480
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2703,8 +2703,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_112
       rect:
         serializedVersion: 2
-        x: 176
-        y: 280
+        x: 528
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2725,8 +2725,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_113
       rect:
         serializedVersion: 2
-        x: 192
-        y: 280
+        x: 544
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2747,8 +2747,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_114
       rect:
         serializedVersion: 2
-        x: 208
-        y: 280
+        x: 560
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2769,8 +2769,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_115
       rect:
         serializedVersion: 2
-        x: 224
-        y: 280
+        x: 576
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2791,8 +2791,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_116
       rect:
         serializedVersion: 2
-        x: 240
-        y: 280
+        x: 608
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2813,8 +2813,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_117
       rect:
         serializedVersion: 2
-        x: 304
-        y: 280
+        x: 624
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2835,8 +2835,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_118
       rect:
         serializedVersion: 2
-        x: 320
-        y: 280
+        x: 640
+        y: 281
         width: 16
         height: 16
       alignment: 0
@@ -2857,8 +2857,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_119
       rect:
         serializedVersion: 2
-        x: 336
-        y: 280
+        x: 64
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -2879,8 +2879,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_120
       rect:
         serializedVersion: 2
-        x: 352
-        y: 280
+        x: 80
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -2901,8 +2901,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_121
       rect:
         serializedVersion: 2
-        x: 368
-        y: 280
+        x: 96
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -2923,8 +2923,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_122
       rect:
         serializedVersion: 2
-        x: 384
-        y: 280
+        x: 112
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -2945,8 +2945,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_123
       rect:
         serializedVersion: 2
-        x: 400
-        y: 280
+        x: 128
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -2967,8 +2967,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_124
       rect:
         serializedVersion: 2
-        x: 416
-        y: 280
+        x: 144
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -2989,8 +2989,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_125
       rect:
         serializedVersion: 2
-        x: 432
-        y: 280
+        x: 160
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -3011,8 +3011,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_126
       rect:
         serializedVersion: 2
-        x: 480
-        y: 280
+        x: 176
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -3033,8 +3033,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_127
       rect:
         serializedVersion: 2
-        x: 528
-        y: 280
+        x: 320
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -3055,8 +3055,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_128
       rect:
         serializedVersion: 2
-        x: 544
-        y: 280
+        x: 336
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -3077,8 +3077,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_129
       rect:
         serializedVersion: 2
-        x: 560
-        y: 280
+        x: 352
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -3099,8 +3099,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_130
       rect:
         serializedVersion: 2
-        x: 576
-        y: 280
+        x: 368
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -3121,8 +3121,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_131
       rect:
         serializedVersion: 2
-        x: 608
-        y: 280
+        x: 384
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -3143,8 +3143,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_132
       rect:
         serializedVersion: 2
-        x: 624
-        y: 280
+        x: 400
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -3165,8 +3165,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_133
       rect:
         serializedVersion: 2
-        x: 640
-        y: 280
+        x: 416
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -3187,8 +3187,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_134
       rect:
         serializedVersion: 2
-        x: 64
-        y: 264
+        x: 432
+        y: 265
         width: 16
         height: 16
       alignment: 0
@@ -3209,8 +3209,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_135
       rect:
         serializedVersion: 2
-        x: 80
-        y: 264
+        x: 64
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3231,8 +3231,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_136
       rect:
         serializedVersion: 2
-        x: 96
-        y: 264
+        x: 80
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3253,8 +3253,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_137
       rect:
         serializedVersion: 2
-        x: 112
-        y: 264
+        x: 96
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3275,8 +3275,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_138
       rect:
         serializedVersion: 2
-        x: 128
-        y: 264
+        x: 112
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3297,8 +3297,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_139
       rect:
         serializedVersion: 2
-        x: 144
-        y: 264
+        x: 128
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3319,8 +3319,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_140
       rect:
         serializedVersion: 2
-        x: 160
-        y: 264
+        x: 144
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3341,8 +3341,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_141
       rect:
         serializedVersion: 2
-        x: 176
-        y: 264
+        x: 160
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3363,8 +3363,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_142
       rect:
         serializedVersion: 2
-        x: 320
-        y: 264
+        x: 176
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3385,8 +3385,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_143
       rect:
         serializedVersion: 2
-        x: 336
-        y: 264
+        x: 208
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3407,8 +3407,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_144
       rect:
         serializedVersion: 2
-        x: 352
-        y: 264
+        x: 224
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3429,8 +3429,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_145
       rect:
         serializedVersion: 2
-        x: 368
-        y: 264
+        x: 240
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3451,8 +3451,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_146
       rect:
         serializedVersion: 2
-        x: 384
-        y: 264
+        x: 256
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3473,8 +3473,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_147
       rect:
         serializedVersion: 2
-        x: 400
-        y: 264
+        x: 272
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3495,8 +3495,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_148
       rect:
         serializedVersion: 2
-        x: 416
-        y: 264
+        x: 320
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3517,8 +3517,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_149
       rect:
         serializedVersion: 2
-        x: 432
-        y: 264
+        x: 336
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3539,8 +3539,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_150
       rect:
         serializedVersion: 2
-        x: 64
-        y: 248
+        x: 352
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3561,8 +3561,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_151
       rect:
         serializedVersion: 2
-        x: 80
-        y: 248
+        x: 368
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3583,8 +3583,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_152
       rect:
         serializedVersion: 2
-        x: 96
-        y: 248
+        x: 384
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3605,8 +3605,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_153
       rect:
         serializedVersion: 2
-        x: 112
-        y: 248
+        x: 400
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3627,8 +3627,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_154
       rect:
         serializedVersion: 2
-        x: 128
-        y: 248
+        x: 416
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3649,8 +3649,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_155
       rect:
         serializedVersion: 2
-        x: 144
-        y: 248
+        x: 432
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3671,8 +3671,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_156
       rect:
         serializedVersion: 2
-        x: 160
-        y: 248
+        x: 544
+        y: 249
         width: 16
         height: 16
       alignment: 0
@@ -3693,8 +3693,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_157
       rect:
         serializedVersion: 2
-        x: 176
-        y: 248
+        x: 64
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -3715,8 +3715,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_158
       rect:
         serializedVersion: 2
-        x: 208
-        y: 248
+        x: 80
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -3737,8 +3737,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_159
       rect:
         serializedVersion: 2
-        x: 224
-        y: 248
+        x: 96
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -3759,8 +3759,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_160
       rect:
         serializedVersion: 2
-        x: 240
-        y: 248
+        x: 112
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -3781,8 +3781,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_161
       rect:
         serializedVersion: 2
-        x: 256
-        y: 248
+        x: 128
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -3803,8 +3803,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_162
       rect:
         serializedVersion: 2
-        x: 272
-        y: 248
+        x: 144
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -3825,8 +3825,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_163
       rect:
         serializedVersion: 2
-        x: 320
-        y: 248
+        x: 160
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -3847,8 +3847,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_164
       rect:
         serializedVersion: 2
-        x: 336
-        y: 248
+        x: 176
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -3869,8 +3869,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_165
       rect:
         serializedVersion: 2
-        x: 352
-        y: 248
+        x: 208
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -3891,8 +3891,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_166
       rect:
         serializedVersion: 2
-        x: 368
-        y: 248
+        x: 320
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -3913,8 +3913,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_167
       rect:
         serializedVersion: 2
-        x: 384
-        y: 248
+        x: 336
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -3935,8 +3935,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_168
       rect:
         serializedVersion: 2
-        x: 400
-        y: 248
+        x: 352
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -3957,8 +3957,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_169
       rect:
         serializedVersion: 2
-        x: 416
-        y: 248
+        x: 368
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -3979,8 +3979,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_170
       rect:
         serializedVersion: 2
-        x: 432
-        y: 248
+        x: 384
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -4001,8 +4001,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_171
       rect:
         serializedVersion: 2
-        x: 544
-        y: 248
+        x: 400
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -4023,8 +4023,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_172
       rect:
         serializedVersion: 2
-        x: 64
-        y: 232
+        x: 416
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -4045,8 +4045,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_173
       rect:
         serializedVersion: 2
-        x: 80
-        y: 232
+        x: 432
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -4067,8 +4067,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_174
       rect:
         serializedVersion: 2
-        x: 96
-        y: 232
+        x: 544
+        y: 233
         width: 16
         height: 16
       alignment: 0
@@ -4089,8 +4089,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_175
       rect:
         serializedVersion: 2
-        x: 112
-        y: 232
+        x: 96
+        y: 217
         width: 16
         height: 16
       alignment: 0
@@ -4111,8 +4111,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_176
       rect:
         serializedVersion: 2
-        x: 128
-        y: 232
+        x: 112
+        y: 217
         width: 16
         height: 16
       alignment: 0
@@ -4133,8 +4133,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_177
       rect:
         serializedVersion: 2
-        x: 144
-        y: 232
+        x: 128
+        y: 217
         width: 16
         height: 16
       alignment: 0
@@ -4155,8 +4155,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_178
       rect:
         serializedVersion: 2
-        x: 160
-        y: 232
+        x: 144
+        y: 217
         width: 16
         height: 16
       alignment: 0
@@ -4177,8 +4177,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_179
       rect:
         serializedVersion: 2
-        x: 176
-        y: 232
+        x: 352
+        y: 217
         width: 16
         height: 16
       alignment: 0
@@ -4199,8 +4199,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_180
       rect:
         serializedVersion: 2
-        x: 208
-        y: 232
+        x: 368
+        y: 217
         width: 16
         height: 16
       alignment: 0
@@ -4221,8 +4221,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_181
       rect:
         serializedVersion: 2
-        x: 320
-        y: 232
+        x: 384
+        y: 217
         width: 16
         height: 16
       alignment: 0
@@ -4243,8 +4243,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_182
       rect:
         serializedVersion: 2
-        x: 336
-        y: 232
+        x: 400
+        y: 217
         width: 16
         height: 16
       alignment: 0
@@ -4265,8 +4265,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_183
       rect:
         serializedVersion: 2
-        x: 352
-        y: 232
+        x: 528
+        y: 217
         width: 16
         height: 16
       alignment: 0
@@ -4287,8 +4287,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_184
       rect:
         serializedVersion: 2
-        x: 368
-        y: 232
+        x: 544
+        y: 217
         width: 16
         height: 16
       alignment: 0
@@ -4309,8 +4309,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_185
       rect:
         serializedVersion: 2
-        x: 384
-        y: 232
+        x: 560
+        y: 217
         width: 16
         height: 16
       alignment: 0
@@ -4331,8 +4331,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_186
       rect:
         serializedVersion: 2
-        x: 400
-        y: 232
+        x: 64
+        y: 201
         width: 16
         height: 16
       alignment: 0
@@ -4353,8 +4353,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_187
       rect:
         serializedVersion: 2
-        x: 416
-        y: 232
+        x: 96
+        y: 201
         width: 16
         height: 16
       alignment: 0
@@ -4375,8 +4375,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_188
       rect:
         serializedVersion: 2
-        x: 432
-        y: 232
+        x: 112
+        y: 201
         width: 16
         height: 16
       alignment: 0
@@ -4397,8 +4397,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_189
       rect:
         serializedVersion: 2
-        x: 528
-        y: 232
+        x: 128
+        y: 201
         width: 16
         height: 16
       alignment: 0
@@ -4419,8 +4419,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_190
       rect:
         serializedVersion: 2
-        x: 544
-        y: 232
+        x: 144
+        y: 201
         width: 16
         height: 16
       alignment: 0
@@ -4441,8 +4441,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_191
       rect:
         serializedVersion: 2
-        x: 560
-        y: 232
+        x: 240
+        y: 201
         width: 16
         height: 16
       alignment: 0
@@ -4463,8 +4463,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_192
       rect:
         serializedVersion: 2
-        x: 64
-        y: 216
+        x: 256
+        y: 201
         width: 16
         height: 16
       alignment: 0
@@ -4485,8 +4485,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_193
       rect:
         serializedVersion: 2
-        x: 96
-        y: 216
+        x: 320
+        y: 201
         width: 16
         height: 16
       alignment: 0
@@ -4507,8 +4507,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_194
       rect:
         serializedVersion: 2
-        x: 112
-        y: 216
+        x: 352
+        y: 201
         width: 16
         height: 16
       alignment: 0
@@ -4529,8 +4529,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_195
       rect:
         serializedVersion: 2
-        x: 128
-        y: 216
+        x: 368
+        y: 201
         width: 16
         height: 16
       alignment: 0
@@ -4551,8 +4551,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_196
       rect:
         serializedVersion: 2
-        x: 144
-        y: 216
+        x: 384
+        y: 201
         width: 16
         height: 16
       alignment: 0
@@ -4573,8 +4573,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_197
       rect:
         serializedVersion: 2
-        x: 320
-        y: 216
+        x: 400
+        y: 201
         width: 16
         height: 16
       alignment: 0
@@ -4595,8 +4595,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_198
       rect:
         serializedVersion: 2
-        x: 352
-        y: 216
+        x: 240
+        y: 185
         width: 16
         height: 16
       alignment: 0
@@ -4617,8 +4617,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_199
       rect:
         serializedVersion: 2
-        x: 368
-        y: 216
+        x: 256
+        y: 185
         width: 16
         height: 16
       alignment: 0
@@ -4639,8 +4639,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_200
       rect:
         serializedVersion: 2
-        x: 384
-        y: 216
+        x: 528
+        y: 185
         width: 16
         height: 16
       alignment: 0
@@ -4661,8 +4661,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_201
       rect:
         serializedVersion: 2
-        x: 400
-        y: 216
+        x: 544
+        y: 185
         width: 16
         height: 16
       alignment: 0
@@ -4683,8 +4683,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_202
       rect:
         serializedVersion: 2
-        x: 528
-        y: 216
+        x: 560
+        y: 185
         width: 16
         height: 16
       alignment: 0
@@ -4705,8 +4705,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_203
       rect:
         serializedVersion: 2
-        x: 544
-        y: 216
+        x: 576
+        y: 185
         width: 16
         height: 16
       alignment: 0
@@ -4727,8 +4727,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_204
       rect:
         serializedVersion: 2
-        x: 560
-        y: 216
+        x: 608
+        y: 185
         width: 16
         height: 16
       alignment: 0
@@ -4749,8 +4749,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_205
       rect:
         serializedVersion: 2
-        x: 64
-        y: 200
+        x: 624
+        y: 185
         width: 16
         height: 16
       alignment: 0
@@ -4771,8 +4771,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_206
       rect:
         serializedVersion: 2
-        x: 96
-        y: 200
+        x: 640
+        y: 185
         width: 16
         height: 16
       alignment: 0
@@ -4793,8 +4793,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_207
       rect:
         serializedVersion: 2
-        x: 112
-        y: 200
+        x: 656
+        y: 185
         width: 16
         height: 16
       alignment: 0
@@ -4815,8 +4815,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_208
       rect:
         serializedVersion: 2
-        x: 128
-        y: 200
+        x: 64
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -4837,8 +4837,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_209
       rect:
         serializedVersion: 2
-        x: 144
-        y: 200
+        x: 80
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -4859,8 +4859,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_210
       rect:
         serializedVersion: 2
-        x: 240
-        y: 200
+        x: 112
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -4881,8 +4881,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_211
       rect:
         serializedVersion: 2
-        x: 256
-        y: 200
+        x: 128
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -4903,8 +4903,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_212
       rect:
         serializedVersion: 2
-        x: 320
-        y: 200
+        x: 144
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -4925,8 +4925,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_213
       rect:
         serializedVersion: 2
-        x: 352
-        y: 200
+        x: 160
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -4947,8 +4947,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_214
       rect:
         serializedVersion: 2
-        x: 368
-        y: 200
+        x: 176
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -4969,8 +4969,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_215
       rect:
         serializedVersion: 2
-        x: 384
-        y: 200
+        x: 192
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -4991,8 +4991,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_216
       rect:
         serializedVersion: 2
-        x: 400
-        y: 200
+        x: 208
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -5013,8 +5013,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_217
       rect:
         serializedVersion: 2
-        x: 64
-        y: 184
+        x: 224
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -5035,8 +5035,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_218
       rect:
         serializedVersion: 2
-        x: 80
-        y: 184
+        x: 528
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -5057,8 +5057,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_219
       rect:
         serializedVersion: 2
-        x: 112
-        y: 184
+        x: 544
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -5079,8 +5079,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_220
       rect:
         serializedVersion: 2
-        x: 128
-        y: 184
+        x: 560
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -5101,8 +5101,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_221
       rect:
         serializedVersion: 2
-        x: 144
-        y: 184
+        x: 576
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -5123,8 +5123,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_222
       rect:
         serializedVersion: 2
-        x: 160
-        y: 184
+        x: 608
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -5145,8 +5145,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_223
       rect:
         serializedVersion: 2
-        x: 176
-        y: 184
+        x: 624
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -5167,8 +5167,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_224
       rect:
         serializedVersion: 2
-        x: 192
-        y: 184
+        x: 640
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -5189,8 +5189,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_225
       rect:
         serializedVersion: 2
-        x: 208
-        y: 184
+        x: 656
+        y: 169
         width: 16
         height: 16
       alignment: 0
@@ -5211,8 +5211,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_226
       rect:
         serializedVersion: 2
-        x: 224
-        y: 184
+        x: 304
+        y: 153
         width: 16
         height: 16
       alignment: 0
@@ -5233,8 +5233,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_227
       rect:
         serializedVersion: 2
-        x: 240
-        y: 184
+        x: 320
+        y: 153
         width: 16
         height: 16
       alignment: 0
@@ -5255,8 +5255,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_228
       rect:
         serializedVersion: 2
-        x: 256
-        y: 184
+        x: 352
+        y: 153
         width: 16
         height: 16
       alignment: 0
@@ -5277,8 +5277,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_229
       rect:
         serializedVersion: 2
-        x: 528
-        y: 184
+        x: 368
+        y: 153
         width: 16
         height: 16
       alignment: 0
@@ -5299,8 +5299,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_230
       rect:
         serializedVersion: 2
-        x: 544
-        y: 184
+        x: 384
+        y: 153
         width: 16
         height: 16
       alignment: 0
@@ -5321,8 +5321,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_231
       rect:
         serializedVersion: 2
-        x: 560
-        y: 184
+        x: 400
+        y: 153
         width: 16
         height: 16
       alignment: 0
@@ -5343,8 +5343,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_232
       rect:
         serializedVersion: 2
-        x: 576
-        y: 184
+        x: 528
+        y: 153
         width: 16
         height: 16
       alignment: 0
@@ -5365,8 +5365,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_233
       rect:
         serializedVersion: 2
-        x: 608
-        y: 184
+        x: 576
+        y: 153
         width: 16
         height: 16
       alignment: 0
@@ -5387,8 +5387,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_234
       rect:
         serializedVersion: 2
-        x: 624
-        y: 184
+        x: 592
+        y: 153
         width: 16
         height: 16
       alignment: 0
@@ -5410,7 +5410,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 640
-        y: 184
+        y: 153
         width: 16
         height: 16
       alignment: 0
@@ -5431,8 +5431,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_236
       rect:
         serializedVersion: 2
-        x: 656
-        y: 184
+        x: 688
+        y: 153
         width: 16
         height: 16
       alignment: 0
@@ -5453,8 +5453,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_237
       rect:
         serializedVersion: 2
-        x: 64
-        y: 168
+        x: 304
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5475,8 +5475,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_238
       rect:
         serializedVersion: 2
-        x: 80
-        y: 168
+        x: 320
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5497,8 +5497,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_239
       rect:
         serializedVersion: 2
-        x: 112
-        y: 168
+        x: 336
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5519,8 +5519,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_240
       rect:
         serializedVersion: 2
-        x: 128
-        y: 168
+        x: 352
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5541,8 +5541,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_241
       rect:
         serializedVersion: 2
-        x: 144
-        y: 168
+        x: 368
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5563,8 +5563,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_242
       rect:
         serializedVersion: 2
-        x: 160
-        y: 168
+        x: 384
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5585,8 +5585,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_243
       rect:
         serializedVersion: 2
-        x: 176
-        y: 168
+        x: 528
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5607,8 +5607,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_244
       rect:
         serializedVersion: 2
-        x: 192
-        y: 168
+        x: 544
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5629,8 +5629,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_245
       rect:
         serializedVersion: 2
-        x: 208
-        y: 168
+        x: 560
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5651,8 +5651,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_246
       rect:
         serializedVersion: 2
-        x: 224
-        y: 168
+        x: 576
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5673,8 +5673,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_247
       rect:
         serializedVersion: 2
-        x: 304
-        y: 168
+        x: 592
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5695,8 +5695,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_248
       rect:
         serializedVersion: 2
-        x: 320
-        y: 168
+        x: 608
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5717,8 +5717,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_249
       rect:
         serializedVersion: 2
-        x: 528
-        y: 168
+        x: 624
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5739,8 +5739,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_250
       rect:
         serializedVersion: 2
-        x: 544
-        y: 168
+        x: 640
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5761,8 +5761,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_251
       rect:
         serializedVersion: 2
-        x: 560
-        y: 168
+        x: 656
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5783,8 +5783,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_252
       rect:
         serializedVersion: 2
-        x: 576
-        y: 168
+        x: 672
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5805,8 +5805,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_253
       rect:
         serializedVersion: 2
-        x: 608
-        y: 168
+        x: 688
+        y: 137
         width: 16
         height: 16
       alignment: 0
@@ -5827,8 +5827,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_254
       rect:
         serializedVersion: 2
-        x: 624
-        y: 168
+        x: 48
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -5849,8 +5849,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_255
       rect:
         serializedVersion: 2
-        x: 640
-        y: 168
+        x: 64
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -5871,8 +5871,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_256
       rect:
         serializedVersion: 2
-        x: 656
-        y: 168
+        x: 80
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -5893,8 +5893,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_257
       rect:
         serializedVersion: 2
-        x: 304
-        y: 152
+        x: 96
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -5915,8 +5915,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_258
       rect:
         serializedVersion: 2
-        x: 320
-        y: 152
+        x: 112
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -5937,8 +5937,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_259
       rect:
         serializedVersion: 2
-        x: 336
-        y: 152
+        x: 128
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -5959,8 +5959,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_260
       rect:
         serializedVersion: 2
-        x: 352
-        y: 152
+        x: 304
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -5981,8 +5981,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_261
       rect:
         serializedVersion: 2
-        x: 368
-        y: 152
+        x: 320
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6003,8 +6003,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_262
       rect:
         serializedVersion: 2
-        x: 384
-        y: 152
+        x: 336
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6025,8 +6025,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_263
       rect:
         serializedVersion: 2
-        x: 400
-        y: 152
+        x: 352
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6047,8 +6047,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_264
       rect:
         serializedVersion: 2
-        x: 528
-        y: 152
+        x: 368
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6069,8 +6069,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_265
       rect:
         serializedVersion: 2
-        x: 576
-        y: 152
+        x: 384
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6091,8 +6091,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_266
       rect:
         serializedVersion: 2
-        x: 592
-        y: 152
+        x: 400
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6113,8 +6113,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_267
       rect:
         serializedVersion: 2
-        x: 640
-        y: 152
+        x: 528
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6135,8 +6135,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_268
       rect:
         serializedVersion: 2
-        x: 688
-        y: 152
+        x: 544
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6157,8 +6157,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_269
       rect:
         serializedVersion: 2
-        x: 96
-        y: 136
+        x: 560
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6179,8 +6179,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_270
       rect:
         serializedVersion: 2
-        x: 112
-        y: 136
+        x: 576
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6201,8 +6201,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_271
       rect:
         serializedVersion: 2
-        x: 128
-        y: 136
+        x: 592
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6223,8 +6223,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_272
       rect:
         serializedVersion: 2
-        x: 304
-        y: 136
+        x: 608
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6245,8 +6245,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_273
       rect:
         serializedVersion: 2
-        x: 320
-        y: 136
+        x: 624
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6267,8 +6267,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_274
       rect:
         serializedVersion: 2
-        x: 336
-        y: 136
+        x: 640
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6289,8 +6289,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_275
       rect:
         serializedVersion: 2
-        x: 352
-        y: 136
+        x: 656
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6311,8 +6311,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_276
       rect:
         serializedVersion: 2
-        x: 368
-        y: 136
+        x: 672
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6333,8 +6333,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_277
       rect:
         serializedVersion: 2
-        x: 384
-        y: 136
+        x: 688
+        y: 121
         width: 16
         height: 16
       alignment: 0
@@ -6355,8 +6355,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_278
       rect:
         serializedVersion: 2
-        x: 528
-        y: 136
+        x: 48
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6377,8 +6377,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_279
       rect:
         serializedVersion: 2
-        x: 544
-        y: 136
+        x: 64
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6399,8 +6399,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_280
       rect:
         serializedVersion: 2
-        x: 560
-        y: 136
+        x: 80
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6421,8 +6421,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_281
       rect:
         serializedVersion: 2
-        x: 576
-        y: 136
+        x: 96
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6443,8 +6443,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_282
       rect:
         serializedVersion: 2
-        x: 592
-        y: 136
+        x: 112
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6465,8 +6465,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_283
       rect:
         serializedVersion: 2
-        x: 608
-        y: 136
+        x: 128
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6487,8 +6487,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_284
       rect:
         serializedVersion: 2
-        x: 624
-        y: 136
+        x: 144
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6509,8 +6509,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_285
       rect:
         serializedVersion: 2
-        x: 640
-        y: 136
+        x: 192
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6531,8 +6531,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_286
       rect:
         serializedVersion: 2
-        x: 656
-        y: 136
+        x: 208
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6553,8 +6553,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_287
       rect:
         serializedVersion: 2
-        x: 672
-        y: 136
+        x: 224
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6575,8 +6575,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_288
       rect:
         serializedVersion: 2
-        x: 688
-        y: 136
+        x: 240
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6597,8 +6597,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_289
       rect:
         serializedVersion: 2
-        x: 48
-        y: 120
+        x: 304
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6619,8 +6619,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_290
       rect:
         serializedVersion: 2
-        x: 64
-        y: 120
+        x: 320
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6641,8 +6641,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_291
       rect:
         serializedVersion: 2
-        x: 80
-        y: 120
+        x: 336
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6663,8 +6663,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_292
       rect:
         serializedVersion: 2
-        x: 96
-        y: 120
+        x: 352
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6685,8 +6685,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_293
       rect:
         serializedVersion: 2
-        x: 112
-        y: 120
+        x: 368
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6707,8 +6707,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_294
       rect:
         serializedVersion: 2
-        x: 128
-        y: 120
+        x: 384
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6729,8 +6729,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_295
       rect:
         serializedVersion: 2
-        x: 144
-        y: 120
+        x: 400
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6751,8 +6751,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_296
       rect:
         serializedVersion: 2
-        x: 192
-        y: 120
+        x: 528
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6773,8 +6773,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_297
       rect:
         serializedVersion: 2
-        x: 208
-        y: 120
+        x: 544
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6795,8 +6795,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_298
       rect:
         serializedVersion: 2
-        x: 224
-        y: 120
+        x: 560
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6817,8 +6817,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_299
       rect:
         serializedVersion: 2
-        x: 240
-        y: 120
+        x: 576
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6839,8 +6839,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_300
       rect:
         serializedVersion: 2
-        x: 304
-        y: 120
+        x: 592
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6861,8 +6861,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_301
       rect:
         serializedVersion: 2
-        x: 320
-        y: 120
+        x: 608
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6883,8 +6883,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_302
       rect:
         serializedVersion: 2
-        x: 336
-        y: 120
+        x: 624
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6905,8 +6905,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_303
       rect:
         serializedVersion: 2
-        x: 352
-        y: 120
+        x: 640
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6927,8 +6927,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_304
       rect:
         serializedVersion: 2
-        x: 368
-        y: 120
+        x: 656
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6949,8 +6949,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_305
       rect:
         serializedVersion: 2
-        x: 384
-        y: 120
+        x: 672
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6971,8 +6971,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_306
       rect:
         serializedVersion: 2
-        x: 400
-        y: 120
+        x: 688
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -6993,8 +6993,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_307
       rect:
         serializedVersion: 2
-        x: 528
-        y: 120
+        x: 704
+        y: 105
         width: 16
         height: 16
       alignment: 0
@@ -7015,8 +7015,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_308
       rect:
         serializedVersion: 2
-        x: 544
-        y: 120
+        x: 64
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7037,8 +7037,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_309
       rect:
         serializedVersion: 2
-        x: 560
-        y: 120
+        x: 80
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7059,8 +7059,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_310
       rect:
         serializedVersion: 2
-        x: 576
-        y: 120
+        x: 96
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7081,8 +7081,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_311
       rect:
         serializedVersion: 2
-        x: 592
-        y: 120
+        x: 112
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7103,8 +7103,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_312
       rect:
         serializedVersion: 2
-        x: 608
-        y: 120
+        x: 128
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7125,8 +7125,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_313
       rect:
         serializedVersion: 2
-        x: 624
-        y: 120
+        x: 144
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7147,8 +7147,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_314
       rect:
         serializedVersion: 2
-        x: 640
-        y: 120
+        x: 224
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7169,8 +7169,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_315
       rect:
         serializedVersion: 2
-        x: 656
-        y: 120
+        x: 304
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7191,8 +7191,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_316
       rect:
         serializedVersion: 2
-        x: 672
-        y: 120
+        x: 320
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7213,8 +7213,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_317
       rect:
         serializedVersion: 2
-        x: 688
-        y: 120
+        x: 336
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7235,8 +7235,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_318
       rect:
         serializedVersion: 2
-        x: 48
-        y: 104
+        x: 352
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7257,8 +7257,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_319
       rect:
         serializedVersion: 2
-        x: 64
-        y: 104
+        x: 368
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7279,8 +7279,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_320
       rect:
         serializedVersion: 2
-        x: 80
-        y: 104
+        x: 384
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7301,8 +7301,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_321
       rect:
         serializedVersion: 2
-        x: 96
-        y: 104
+        x: 400
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7323,8 +7323,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_322
       rect:
         serializedVersion: 2
-        x: 112
-        y: 104
+        x: 416
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7345,8 +7345,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_323
       rect:
         serializedVersion: 2
-        x: 128
-        y: 104
+        x: 432
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7367,8 +7367,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_324
       rect:
         serializedVersion: 2
-        x: 144
-        y: 104
+        x: 528
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7389,8 +7389,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_325
       rect:
         serializedVersion: 2
-        x: 192
-        y: 104
+        x: 544
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7411,8 +7411,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_326
       rect:
         serializedVersion: 2
-        x: 208
-        y: 104
+        x: 560
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7433,8 +7433,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_327
       rect:
         serializedVersion: 2
-        x: 224
-        y: 104
+        x: 576
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7455,8 +7455,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_328
       rect:
         serializedVersion: 2
-        x: 240
-        y: 104
+        x: 592
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7477,8 +7477,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_329
       rect:
         serializedVersion: 2
-        x: 304
-        y: 104
+        x: 608
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7499,8 +7499,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_330
       rect:
         serializedVersion: 2
-        x: 320
-        y: 104
+        x: 624
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7521,8 +7521,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_331
       rect:
         serializedVersion: 2
-        x: 336
-        y: 104
+        x: 640
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7543,8 +7543,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_332
       rect:
         serializedVersion: 2
-        x: 352
-        y: 104
+        x: 656
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7565,8 +7565,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_333
       rect:
         serializedVersion: 2
-        x: 368
-        y: 104
+        x: 672
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7587,8 +7587,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_334
       rect:
         serializedVersion: 2
-        x: 384
-        y: 104
+        x: 688
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7609,8 +7609,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_335
       rect:
         serializedVersion: 2
-        x: 400
-        y: 104
+        x: 704
+        y: 89
         width: 16
         height: 16
       alignment: 0
@@ -7631,8 +7631,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_336
       rect:
         serializedVersion: 2
-        x: 528
-        y: 104
+        x: 64
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7653,8 +7653,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_337
       rect:
         serializedVersion: 2
-        x: 544
-        y: 104
+        x: 80
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7675,8 +7675,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_338
       rect:
         serializedVersion: 2
-        x: 560
-        y: 104
+        x: 96
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7697,8 +7697,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_339
       rect:
         serializedVersion: 2
-        x: 576
-        y: 104
+        x: 112
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7719,8 +7719,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_340
       rect:
         serializedVersion: 2
-        x: 592
-        y: 104
+        x: 128
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7741,8 +7741,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_341
       rect:
         serializedVersion: 2
-        x: 608
-        y: 104
+        x: 144
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7763,8 +7763,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_342
       rect:
         serializedVersion: 2
-        x: 624
-        y: 104
+        x: 160
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7785,8 +7785,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_343
       rect:
         serializedVersion: 2
-        x: 640
-        y: 104
+        x: 176
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7807,8 +7807,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_344
       rect:
         serializedVersion: 2
-        x: 656
-        y: 104
+        x: 320
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7829,8 +7829,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_345
       rect:
         serializedVersion: 2
-        x: 672
-        y: 104
+        x: 336
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7851,8 +7851,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_346
       rect:
         serializedVersion: 2
-        x: 688
-        y: 104
+        x: 352
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7873,8 +7873,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_347
       rect:
         serializedVersion: 2
-        x: 704
-        y: 104
+        x: 368
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7895,8 +7895,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_348
       rect:
         serializedVersion: 2
-        x: 64
-        y: 88
+        x: 384
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7917,8 +7917,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_349
       rect:
         serializedVersion: 2
-        x: 80
-        y: 88
+        x: 400
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7939,8 +7939,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_350
       rect:
         serializedVersion: 2
-        x: 96
-        y: 88
+        x: 416
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7961,8 +7961,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_351
       rect:
         serializedVersion: 2
-        x: 112
-        y: 88
+        x: 432
+        y: 73
         width: 16
         height: 16
       alignment: 0
@@ -7983,8 +7983,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_352
       rect:
         serializedVersion: 2
-        x: 128
-        y: 88
+        x: 64
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8005,8 +8005,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_353
       rect:
         serializedVersion: 2
-        x: 144
-        y: 88
+        x: 80
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8027,8 +8027,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_354
       rect:
         serializedVersion: 2
-        x: 160
-        y: 88
+        x: 96
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8049,8 +8049,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_355
       rect:
         serializedVersion: 2
-        x: 176
-        y: 88
+        x: 112
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8071,8 +8071,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_356
       rect:
         serializedVersion: 2
-        x: 224
-        y: 88
+        x: 128
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8093,8 +8093,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_357
       rect:
         serializedVersion: 2
-        x: 304
-        y: 88
+        x: 144
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8115,8 +8115,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_358
       rect:
         serializedVersion: 2
-        x: 320
-        y: 88
+        x: 160
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8137,8 +8137,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_359
       rect:
         serializedVersion: 2
-        x: 336
-        y: 88
+        x: 176
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8159,8 +8159,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_360
       rect:
         serializedVersion: 2
-        x: 352
-        y: 88
+        x: 320
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8181,8 +8181,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_361
       rect:
         serializedVersion: 2
-        x: 368
-        y: 88
+        x: 336
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8203,8 +8203,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_362
       rect:
         serializedVersion: 2
-        x: 384
-        y: 88
+        x: 352
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8225,8 +8225,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_363
       rect:
         serializedVersion: 2
-        x: 400
-        y: 88
+        x: 368
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8247,8 +8247,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_364
       rect:
         serializedVersion: 2
-        x: 416
-        y: 88
+        x: 384
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8269,8 +8269,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_365
       rect:
         serializedVersion: 2
-        x: 432
-        y: 88
+        x: 400
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8291,8 +8291,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_366
       rect:
         serializedVersion: 2
-        x: 528
-        y: 88
+        x: 416
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8313,8 +8313,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_367
       rect:
         serializedVersion: 2
-        x: 544
-        y: 88
+        x: 432
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8335,8 +8335,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_368
       rect:
         serializedVersion: 2
-        x: 560
-        y: 88
+        x: 528
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8357,8 +8357,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_369
       rect:
         serializedVersion: 2
-        x: 576
-        y: 88
+        x: 544
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8379,8 +8379,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_370
       rect:
         serializedVersion: 2
-        x: 592
-        y: 88
+        x: 560
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8401,8 +8401,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_371
       rect:
         serializedVersion: 2
-        x: 608
-        y: 88
+        x: 576
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8423,8 +8423,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_372
       rect:
         serializedVersion: 2
-        x: 624
-        y: 88
+        x: 592
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8445,8 +8445,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_373
       rect:
         serializedVersion: 2
-        x: 640
-        y: 88
+        x: 608
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8467,8 +8467,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_374
       rect:
         serializedVersion: 2
-        x: 656
-        y: 88
+        x: 624
+        y: 57
         width: 16
         height: 16
       alignment: 0
@@ -8489,8 +8489,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_375
       rect:
         serializedVersion: 2
-        x: 672
-        y: 88
+        x: 64
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8511,8 +8511,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_376
       rect:
         serializedVersion: 2
-        x: 688
-        y: 88
+        x: 80
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8533,8 +8533,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_377
       rect:
         serializedVersion: 2
-        x: 704
-        y: 88
+        x: 96
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8555,8 +8555,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_378
       rect:
         serializedVersion: 2
-        x: 64
-        y: 72
+        x: 112
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8577,8 +8577,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_379
       rect:
         serializedVersion: 2
-        x: 80
-        y: 72
+        x: 128
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8599,8 +8599,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_380
       rect:
         serializedVersion: 2
-        x: 96
-        y: 72
+        x: 144
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8621,8 +8621,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_381
       rect:
         serializedVersion: 2
-        x: 112
-        y: 72
+        x: 160
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8643,8 +8643,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_382
       rect:
         serializedVersion: 2
-        x: 128
-        y: 72
+        x: 176
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8665,8 +8665,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_383
       rect:
         serializedVersion: 2
-        x: 144
-        y: 72
+        x: 320
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8687,8 +8687,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_384
       rect:
         serializedVersion: 2
-        x: 160
-        y: 72
+        x: 336
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8709,8 +8709,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_385
       rect:
         serializedVersion: 2
-        x: 176
-        y: 72
+        x: 352
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8731,8 +8731,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_386
       rect:
         serializedVersion: 2
-        x: 320
-        y: 72
+        x: 368
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8753,8 +8753,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_387
       rect:
         serializedVersion: 2
-        x: 336
-        y: 72
+        x: 384
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8775,8 +8775,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_388
       rect:
         serializedVersion: 2
-        x: 352
-        y: 72
+        x: 400
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8797,8 +8797,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_389
       rect:
         serializedVersion: 2
-        x: 368
-        y: 72
+        x: 416
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8819,8 +8819,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_390
       rect:
         serializedVersion: 2
-        x: 384
-        y: 72
+        x: 432
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8841,8 +8841,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_391
       rect:
         serializedVersion: 2
-        x: 400
-        y: 72
+        x: 528
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8863,8 +8863,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_392
       rect:
         serializedVersion: 2
-        x: 416
-        y: 72
+        x: 544
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8885,8 +8885,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_393
       rect:
         serializedVersion: 2
-        x: 432
-        y: 72
+        x: 560
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8907,8 +8907,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_394
       rect:
         serializedVersion: 2
-        x: 64
-        y: 56
+        x: 576
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8929,8 +8929,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_395
       rect:
         serializedVersion: 2
-        x: 80
-        y: 56
+        x: 592
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8951,8 +8951,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_396
       rect:
         serializedVersion: 2
-        x: 96
-        y: 56
+        x: 608
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8973,8 +8973,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_397
       rect:
         serializedVersion: 2
-        x: 112
-        y: 56
+        x: 624
+        y: 41
         width: 16
         height: 16
       alignment: 0
@@ -8995,8 +8995,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_398
       rect:
         serializedVersion: 2
-        x: 128
-        y: 56
+        x: 96
+        y: 25
         width: 16
         height: 16
       alignment: 0
@@ -9017,8 +9017,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_399
       rect:
         serializedVersion: 2
-        x: 144
-        y: 56
+        x: 112
+        y: 25
         width: 16
         height: 16
       alignment: 0
@@ -9039,8 +9039,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_400
       rect:
         serializedVersion: 2
-        x: 160
-        y: 56
+        x: 128
+        y: 25
         width: 16
         height: 16
       alignment: 0
@@ -9061,8 +9061,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_401
       rect:
         serializedVersion: 2
-        x: 176
-        y: 56
+        x: 144
+        y: 25
         width: 16
         height: 16
       alignment: 0
@@ -9083,8 +9083,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_402
       rect:
         serializedVersion: 2
-        x: 320
-        y: 56
+        x: 352
+        y: 25
         width: 16
         height: 16
       alignment: 0
@@ -9105,8 +9105,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_403
       rect:
         serializedVersion: 2
-        x: 336
-        y: 56
+        x: 368
+        y: 25
         width: 16
         height: 16
       alignment: 0
@@ -9127,8 +9127,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_404
       rect:
         serializedVersion: 2
-        x: 352
-        y: 56
+        x: 384
+        y: 25
         width: 16
         height: 16
       alignment: 0
@@ -9149,8 +9149,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_405
       rect:
         serializedVersion: 2
-        x: 368
-        y: 56
+        x: 400
+        y: 25
         width: 16
         height: 16
       alignment: 0
@@ -9171,8 +9171,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_406
       rect:
         serializedVersion: 2
-        x: 384
-        y: 56
+        x: 64
+        y: 9
         width: 16
         height: 16
       alignment: 0
@@ -9193,8 +9193,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_407
       rect:
         serializedVersion: 2
-        x: 400
-        y: 56
+        x: 96
+        y: 9
         width: 16
         height: 16
       alignment: 0
@@ -9215,8 +9215,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_408
       rect:
         serializedVersion: 2
-        x: 416
-        y: 56
+        x: 112
+        y: 9
         width: 16
         height: 16
       alignment: 0
@@ -9237,8 +9237,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_409
       rect:
         serializedVersion: 2
-        x: 432
-        y: 56
+        x: 128
+        y: 9
         width: 16
         height: 16
       alignment: 0
@@ -9259,8 +9259,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_410
       rect:
         serializedVersion: 2
-        x: 528
-        y: 56
+        x: 144
+        y: 9
         width: 16
         height: 16
       alignment: 0
@@ -9281,8 +9281,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_411
       rect:
         serializedVersion: 2
-        x: 544
-        y: 56
+        x: 320
+        y: 9
         width: 16
         height: 16
       alignment: 0
@@ -9303,8 +9303,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_412
       rect:
         serializedVersion: 2
-        x: 560
-        y: 56
+        x: 352
+        y: 9
         width: 16
         height: 16
       alignment: 0
@@ -9325,8 +9325,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_413
       rect:
         serializedVersion: 2
-        x: 576
-        y: 56
+        x: 368
+        y: 9
         width: 16
         height: 16
       alignment: 0
@@ -9347,8 +9347,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_414
       rect:
         serializedVersion: 2
-        x: 592
-        y: 56
+        x: 384
+        y: 9
         width: 16
         height: 16
       alignment: 0
@@ -9369,8 +9369,8 @@ TextureImporter:
       name: sprite-no-bg-784x392_415
       rect:
         serializedVersion: 2
-        x: 608
-        y: 56
+        x: 400
+        y: 9
         width: 16
         height: 16
       alignment: 0
@@ -9383,974 +9383,6 @@ TextureImporter:
       bones: []
       spriteID: eb621fc14b00b408f93e6dff16a140bf
       internalID: 167680784
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_416
-      rect:
-        serializedVersion: 2
-        x: 624
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a8a2fd2db2f304c13ad3a535075a14f6
-      internalID: -1855902770
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_417
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42d3cb41e4d5f4e05920e7f37c403ded
-      internalID: 286424028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_418
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed96395996ea049cea309de9b1c2348a
-      internalID: 1417535346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_419
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb0fe76c1a129463e9b9eaf5fd9a0393
-      internalID: 446706599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_420
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15bea2ce302d14c19bc44db7418db432
-      internalID: -1305228505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_421
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd7e3c29c774e49ef9a5e794aff16aa8
-      internalID: -1239750343
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_422
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b7f82cff218524687aa27aa0c96ccf17
-      internalID: -712264054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_423
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f830bd66346849f0a524e69d526aad0
-      internalID: -305836639
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_424
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7e76d783296445e8a6aa7ee3bf8bf60
-      internalID: 1174380710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_425
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 856ab60fd1e274e0bb67885272fcb6de
-      internalID: -1096585867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_426
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ebfe9b5756b34468b1cb1e4146750ca
-      internalID: 496489851
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_427
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1bb9a784c139f48228e38010d50a4a3e
-      internalID: 970680574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_428
-      rect:
-        serializedVersion: 2
-        x: 368
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6df0dcbcd34cd481eb7c46af5a416ab6
-      internalID: -1062327488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_429
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00496c2bd24d447a9aa000c27c722089
-      internalID: -793984985
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_430
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b0fe4eb0f4a84b3cae5ae72777c734d
-      internalID: 1378930158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_431
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e2c25ab0a7c34b06958d5771164e801
-      internalID: 1077443671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_432
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 25eb90b3cff604b468b4483c1b652977
-      internalID: 1112752329
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_433
-      rect:
-        serializedVersion: 2
-        x: 528
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 44426d0dad4804ed88a8ec846cb18671
-      internalID: -918965760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_434
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 439a34f354e404bc6b9b2a0799813515
-      internalID: 346328966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_435
-      rect:
-        serializedVersion: 2
-        x: 560
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a063a1d6b8582471196c950d780dab43
-      internalID: 422781587
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_436
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ff40e525d0ef42b7bd531b09d67b5b8
-      internalID: 854649247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_437
-      rect:
-        serializedVersion: 2
-        x: 592
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55f2b97ac7f2d4e8fa3a70b82f28d5b0
-      internalID: -1564582820
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_438
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f1f0aba129cd49028edaa08af3fa4a1
-      internalID: 772774887
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_439
-      rect:
-        serializedVersion: 2
-        x: 624
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb959843b797c45d499738425cbd908a
-      internalID: -570735415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_440
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb036a1d1fccf4dd5ad84192446b32b7
-      internalID: 87665591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_441
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 08f5900469ecc4c87b20e5b604527ccf
-      internalID: 1743383637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_442
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3bc0f103fecb04ced9fe3499923a2877
-      internalID: 2132986216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_443
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b25f2f32379c43efa73147157f8723e
-      internalID: -1882467832
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_444
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 602c6dd84afc44216926d536997adc43
-      internalID: 26411133
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_445
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6021ec9ca936e48349cea60939b80ede
-      internalID: -757470333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_446
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6b9ffeff8b5bb404f92d6591c2d544fc
-      internalID: 574519729
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_447
-      rect:
-        serializedVersion: 2
-        x: 368
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9b8ad5fe9bc44c92a2f5a76f2413b90
-      internalID: 1535476809
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_448
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a9ce756eeaca45d1b9dbb3563da33ba
-      internalID: 1874596456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_449
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 24
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d8273c29299e3493cbfdeabe71c4c709
-      internalID: 1971274096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_450
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9415b2cc0953f4009b7ccfa3f55cbe13
-      internalID: 1412081703
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_451
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 90730215799f64656ad252a65b050c97
-      internalID: 302461721
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_452
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0737aff9add0f470eb14bc36ae3f1d7b
-      internalID: -413221178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_453
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d8245c0dfc71453ca8fc198e5452220
-      internalID: -689903637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_454
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4cddccf423b564bd2a2c22e990c3909d
-      internalID: -899199307
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_455
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56cdbbedd52bc4bfeb3a4f37c3da719b
-      internalID: 1985159926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_456
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37a181751d03e42fe9fd6ecf5e44a78b
-      internalID: 1104116981
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_457
-      rect:
-        serializedVersion: 2
-        x: 368
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e455ddd6231454c7e87bc2444fed036b
-      internalID: -1105755194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_458
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5dd69639547f5444da2ec4bb65ccdc6b
-      internalID: -1247793341
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-no-bg-784x392_459
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 04910c64346df4b3f97368ad4be636d5
-      internalID: -555654804
       vertices: []
       indices: 
       edges: []
@@ -10369,7 +9401,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       sprite-no-bg-784x392_0: -1783876037207560816
       sprite-no-bg-784x392_1: -8134557131807473959
@@ -10724,54 +9756,10 @@ TextureImporter:
       sprite-no-bg-784x392_413: -966857151
       sprite-no-bg-784x392_414: 117153670
       sprite-no-bg-784x392_415: 167680784
-      sprite-no-bg-784x392_416: -1855902770
-      sprite-no-bg-784x392_417: 286424028
-      sprite-no-bg-784x392_418: 1417535346
-      sprite-no-bg-784x392_419: 446706599
       sprite-no-bg-784x392_42: -2079165919
-      sprite-no-bg-784x392_420: -1305228505
-      sprite-no-bg-784x392_421: -1239750343
-      sprite-no-bg-784x392_422: -712264054
-      sprite-no-bg-784x392_423: -305836639
-      sprite-no-bg-784x392_424: 1174380710
-      sprite-no-bg-784x392_425: -1096585867
-      sprite-no-bg-784x392_426: 496489851
-      sprite-no-bg-784x392_427: 970680574
-      sprite-no-bg-784x392_428: -1062327488
-      sprite-no-bg-784x392_429: -793984985
       sprite-no-bg-784x392_43: -979708230
-      sprite-no-bg-784x392_430: 1378930158
-      sprite-no-bg-784x392_431: 1077443671
-      sprite-no-bg-784x392_432: 1112752329
-      sprite-no-bg-784x392_433: -918965760
-      sprite-no-bg-784x392_434: 346328966
-      sprite-no-bg-784x392_435: 422781587
-      sprite-no-bg-784x392_436: 854649247
-      sprite-no-bg-784x392_437: -1564582820
-      sprite-no-bg-784x392_438: 772774887
-      sprite-no-bg-784x392_439: -570735415
       sprite-no-bg-784x392_44: 322580849
-      sprite-no-bg-784x392_440: 87665591
-      sprite-no-bg-784x392_441: 1743383637
-      sprite-no-bg-784x392_442: 2132986216
-      sprite-no-bg-784x392_443: -1882467832
-      sprite-no-bg-784x392_444: 26411133
-      sprite-no-bg-784x392_445: -757470333
-      sprite-no-bg-784x392_446: 574519729
-      sprite-no-bg-784x392_447: 1535476809
-      sprite-no-bg-784x392_448: 1874596456
-      sprite-no-bg-784x392_449: 1971274096
       sprite-no-bg-784x392_45: 1628535926
-      sprite-no-bg-784x392_450: 1412081703
-      sprite-no-bg-784x392_451: 302461721
-      sprite-no-bg-784x392_452: -413221178
-      sprite-no-bg-784x392_453: -689903637
-      sprite-no-bg-784x392_454: -899199307
-      sprite-no-bg-784x392_455: 1985159926
-      sprite-no-bg-784x392_456: 1104116981
-      sprite-no-bg-784x392_457: -1105755194
-      sprite-no-bg-784x392_458: -1247793341
-      sprite-no-bg-784x392_459: -555654804
       sprite-no-bg-784x392_46: 931714979
       sprite-no-bg-784x392_47: 433766123
       sprite-no-bg-784x392_48: -209637842
