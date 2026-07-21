@@ -16,7 +16,7 @@ public class FollowBob : MonoBehaviour
     {
         Vector3 BobPos = Bob.transform.position;
         float CamX = BobPos.x;
-        float CamY = BobPos.y;
+        float CamY = BobPos.y + 2f;
         CamX=Mathf.Clamp(CamX,MinX,MaxX); //will figure out the limits later
         CamY=Mathf.Clamp(CamY,MinY,MaxY); //will figure out the limits later
         float CamZ = transform.position.z;

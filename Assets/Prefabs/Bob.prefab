@@ -206,7 +206,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5c0768f369e54c4c8cb8980f4357a07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  moveSpeed: 3.5
+  knockbackForce: 2.5
+  moveSpeed: 4
+  walk1: {fileID: 8300000, guid: 2c4c472a9e57d4f459cfbcfd92ecdfa7, type: 3}
+  walk2: {fileID: 8300000, guid: 70ed91b07a3104f0bb0197c3caa9d9ea, type: 3}
+  death: {fileID: 8300000, guid: b8074bd19af3d451f8cb9ab44aeb2752, type: 3}
+  jumping: {fileID: 8300000, guid: 35f5e8db40ea44034aefbf48c0d42ced, type: 3}
   jumpForce: 7
   wallCheck: {fileID: 323568709446785178}
   checkDist: 0.5

@@ -17,9 +17,12 @@ public class BobBrain : MonoBehaviour
     [SerializeField] float moveSpeed = 3f;
     private bool IsMoving = true;
     private int direction = 1;
-
     private bool grounded;
-
+    [SerializeField] private AudioClip walk1;
+    [SerializeField] private AudioClip walk2;
+    [SerializeField] private AudioClip death;
+    
+    [SerializeField] private AudioClip jumping;
     [SerializeField] private float jumpForce = 7f;
 
     // FOR RAYCAST
@@ -86,7 +89,6 @@ public class BobBrain : MonoBehaviour
                               Vector2.down,
                               groundCheckDist,
                               mask);
-
         return left || right;
     }
 
@@ -109,17 +111,18 @@ public class BobBrain : MonoBehaviour
             Debug.Log("GOT SECOND WHISTLE");
             waitingForSecondWhistle = false;
             audioSource.PlayOneShot(whistle2);
-            OnSecondWhistle(); // GOT THE SECOND WHISTLE
+            Jump();
         }
 
     }
 
-    private void OnSecondWhistle()
+    private void Jump()
     {
         if (!grounded)
         {
             return;
         }
+        audioSource.PlayOneShot(jumping,0.4f);
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
     }
 
@@ -129,7 +132,7 @@ public class BobBrain : MonoBehaviour
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>(); //initiation the rigidbody component
         audioSource = GetComponent<AudioSource>();
-        col=GetComponent<Collider2D>();
+        col = GetComponent<Collider2D>();
     }
     void Start()
     {
@@ -142,7 +145,7 @@ public class BobBrain : MonoBehaviour
         isDead = true;
 
         col.sharedMaterial = null;
-
+        audioSource.PlayOneShot(death);
         rb.linearVelocity = new Vector2(
             -direction * knockbackForce,
             2f
@@ -154,7 +157,11 @@ public class BobBrain : MonoBehaviour
     }
     void Update()
     {
-        if (isDead) return;
+        if (isDead)
+        {
+            return;
+        }
+        ;
         grounded = isGrounded();
         animator.SetBool("Moving", IsMoving);
         animator.SetBool("Grounded", grounded);
@@ -175,9 +182,8 @@ public class BobBrain : MonoBehaviour
                 Debug.Log("TIMER ENDED");
             }
 
-
         }
-
+        
     }
     void FixedUpdate()
     {
@@ -185,11 +191,20 @@ public class BobBrain : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(direction * (IsMoving ? moveSpeed : 0f), rb.linearVelocity.y);//physics movement ...takes VelX and VelY...Using ternary operator to decide MoveSpeed or zero
         }
+
     }
     public void DeathFinished()
     {
         Debug.Log("Death animation finished");
 
         GameManager.Instance.ResetLevel();
+    }
+    public void PlayWalk1()
+    {
+        audioSource.PlayOneShot(walk1);
+    }
+    public void PlayWalk2()
+    {
+        audioSource.PlayOneShot(walk2);
     }
 }
