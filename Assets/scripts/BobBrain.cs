@@ -122,7 +122,7 @@ public class BobBrain : MonoBehaviour
         {
             return;
         }
-        audioSource.PlayOneShot(jumping,0.4f);
+        audioSource.PlayOneShot(jumping,0.3f);
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
     }
 
