@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour
     private AudioSource audioSource;
     [SerializeField] private AudioClip menuMusic;
     [SerializeField] private AudioClip gameplayMusic;
+    [SerializeField] private AudioClip winHorn;
 
     void Awake()
     {
@@ -48,6 +49,10 @@ public class GameManager : MonoBehaviour
         audioSource.Play();
         TransitionManager.Instance.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         // or directly 1?
+    }
+    public void WinSound()
+    {
+        audioSource.PlayOneShot(winHorn);
     }
 
 }

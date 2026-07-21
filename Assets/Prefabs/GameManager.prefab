@@ -47,6 +47,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   menuMusic: {fileID: 8300000, guid: 6a9a00b5c29a34d29b4a764d417bfd23, type: 3}
   gameplayMusic: {fileID: 8300000, guid: 59ab307eac61c466b824ba3441b37b7c, type: 3}
+  winHorn: {fileID: 8300000, guid: 5d53eca47841246b5b0148a54d73e6e8, type: 3}
 --- !u!82 &6242008322696422250
 AudioSource:
   m_ObjectHideFlags: 0
