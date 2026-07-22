@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
 
     void Awake()
     {
+        Debug.unityLogger.logEnabled = Debug.isDebugBuild;
         if (Instance == null)
         {
             Instance = this;
@@ -35,17 +36,17 @@ public class GameManager : MonoBehaviour
     public void NextLevel()
     {
         Debug.Log("ENTEr NExT LEVEL HERE");
-        TransitionManager.Instance.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
+        TransitionManager.Instance.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
     public void PlayButtonPressed(int index)
     {
-        if (audioSource.clip == gameplayMusic)
+        if (audioSource.clip != gameplayMusic)
         {
-            return;
+            audioSource.Stop();
+            audioSource.clip = gameplayMusic;
+            audioSource.Play();
+
         }
-        audioSource.Stop();
-        audioSource.clip = gameplayMusic;
-        audioSource.Play();
         TransitionManager.Instance.LoadScene(index);
     }
     public void WinSound()
