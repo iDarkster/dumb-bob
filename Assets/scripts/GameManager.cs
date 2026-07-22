@@ -17,8 +17,7 @@ public class GameManager : MonoBehaviour
             DontDestroyOnLoad(gameObject);
             audioSource = GetComponent<AudioSource>();
             audioSource.loop = true;
-            //audioSource.clip = menuMusic;
-            audioSource.clip = gameplayMusic;
+            audioSource.clip = menuMusic;
             audioSource.Play();
         }
         else
@@ -36,9 +35,9 @@ public class GameManager : MonoBehaviour
     public void NextLevel()
     {
         Debug.Log("ENTEr NExT LEVEL HERE");
-        TransitionManager.Instance.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        TransitionManager.Instance.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
     }
-    public void PlayButtonPressed()
+    public void PlayButtonPressed(int index)
     {
         if (audioSource.clip == gameplayMusic)
         {
@@ -47,8 +46,7 @@ public class GameManager : MonoBehaviour
         audioSource.Stop();
         audioSource.clip = gameplayMusic;
         audioSource.Play();
-        TransitionManager.Instance.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-        // or directly 1?
+        TransitionManager.Instance.LoadScene(index);
     }
     public void WinSound()
     {

@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 6567faa736bac4e55b0bbc6850d3efc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -27307904797611606
+    second: HowToPlay_0
+  - first:
+      213: -1649781349477682230
+    second: HowToPlay_1
+  - first:
+      213: -6209129121431149461
+    second: HowToPlay_2
+  - first:
+      213: 7366758881341988667
+    second: HowToPlay_3
+  - first:
+      213: 6886921639791165153
+    second: HowToPlay_4
+  - first:
+      213: -4221913582717029277
+    second: HowToPlay_5
+  - first:
+      213: -2878271556306509993
+    second: HowToPlay_6
+  - first:
+      213: 6392706351827264714
+    second: HowToPlay_7
+  - first:
+      213: 8974988128736816453
+    second: HowToPlay_8
+  - first:
+      213: -3280721755099210238
+    second: HowToPlay_9
+  - first:
+      213: -7091287740867852878
+    second: HowToPlay_10
+  - first:
+      213: 2581667970735211890
+    second: HowToPlay_11
+  - first:
+      213: 5417810335432123249
+    second: HowToPlay_12
+  - first:
+      213: -1217116637269931950
+    second: HowToPlay_13
+  - first:
+      213: 1154032948743011448
+    second: HowToPlay_14
+  - first:
+      213: 2302022239645305924
+    second: HowToPlay_15
+  - first:
+      213: 7698694832741957412
+    second: HowToPlay_16
+  - first:
+      213: 1439534118491038057
+    second: HowToPlay_17
+  - first:
+      213: -5715429438587759336
+    second: HowToPlay_18
+  - first:
+      213: 4177353819302530124
+    second: HowToPlay_19
+  - first:
+      213: 6138330268809301293
+    second: HowToPlay_20
+  - first:
+      213: -506942584733041641
+    second: HowToPlay_21
+  - first:
+      213: -3166107449819691230
+    second: HowToPlay_22
+  - first:
+      213: -7352113881242402474
+    second: HowToPlay_23
+  - first:
+      213: 461418779462194470
+    second: HowToPlay_24
+  - first:
+      213: 639661076111287273
+    second: HowToPlay_25
+  - first:
+      213: -4891510816857906461
+    second: HowToPlay_26
+  - first:
+      213: 7124607867515840347
+    second: HowToPlay_27
+  - first:
+      213: 2399387669673386282
+    second: HowToPlay_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HowToPlay_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 140
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa96af2fa9bfe9ff0800000000000000
+      internalID: -27307904797611606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 151
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac371538a9cca19e0800000000000000
+      internalID: -1649781349477682230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 151
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64209026fdb4d9a0800000000000000
+      internalID: -6209129121431149461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 151
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fd75cfb2cfb3660800000000000000
+      internalID: 7366758881341988667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 151
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eef3bf2eb2439f50800000000000000
+      internalID: 6886921639791165153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 149
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36431c517ffb865c0800000000000000
+      internalID: -4221913582717029277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 151
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f5d3fe4435e08d0800000000000000
+      internalID: -2878271556306509993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 151
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac42c069e8477b850800000000000000
+      internalID: 6392706351827264714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 89
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54da4bcc6209d8c70800000000000000
+      internalID: 8974988128736816453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 100
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e5a6c12f88872d0800000000000000
+      internalID: -3280721755099210238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 100
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b54d75fe5fa69d90800000000000000
+      internalID: -7091287740867852878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 100
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2750da3575de3d320800000000000000
+      internalID: 2581667970735211890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 100
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1732fd79bcdef2b40800000000000000
+      internalID: 5417810335432123249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 100
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258ce41fddeeb1fe0800000000000000
+      internalID: -1217116637269931950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 100
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c7ce04ad2f30010800000000000000
+      internalID: 1154032948743011448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c8b13c70d62ff10800000000000000
+      internalID: 2302022239645305924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f38b3392247da60800000000000000
+      internalID: 7698694832741957412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961a6be57a04af310800000000000000
+      internalID: 1439534118491038057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8159a2e0537bea0b0800000000000000
+      internalID: -5715429438587759336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c06a48a21f8f930800000000000000
+      internalID: 4177353819302530124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d08627bdabf2550800000000000000
+      internalID: 6138330268809301293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cf773b76af6f8f0800000000000000
+      internalID: -506942584733041641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22787c49c0abf04d0800000000000000
+      internalID: -3166107449819691230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6510450d06b08f990800000000000000
+      internalID: -7352113881242402474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_24
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625d98a6fe9476600800000000000000
+      internalID: 461418779462194470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3e1421c5880e800800000000000000
+      internalID: 639661076111287273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 49
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2243214dcdd1cb0800000000000000
+      internalID: -4891510816857906461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b572c339b11bfd260800000000000000
+      internalID: 7124607867515840347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlay_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21a5518f565c4120800000000000000
+      internalID: 2399387669673386282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HowToPlay_0: -27307904797611606
+      HowToPlay_1: -1649781349477682230
+      HowToPlay_10: -7091287740867852878
+      HowToPlay_11: 2581667970735211890
+      HowToPlay_12: 5417810335432123249
+      HowToPlay_13: -1217116637269931950
+      HowToPlay_14: 1154032948743011448
+      HowToPlay_15: 2302022239645305924
+      HowToPlay_16: 7698694832741957412
+      HowToPlay_17: 1439534118491038057
+      HowToPlay_18: -5715429438587759336
+      HowToPlay_19: 4177353819302530124
+      HowToPlay_2: -6209129121431149461
+      HowToPlay_20: 6138330268809301293
+      HowToPlay_21: -506942584733041641
+      HowToPlay_22: -3166107449819691230
+      HowToPlay_23: -7352113881242402474
+      HowToPlay_24: 461418779462194470
+      HowToPlay_25: 639661076111287273
+      HowToPlay_26: -4891510816857906461
+      HowToPlay_27: 7124607867515840347
+      HowToPlay_28: 2399387669673386282
+      HowToPlay_3: 7366758881341988667
+      HowToPlay_4: 6886921639791165153
+      HowToPlay_5: -4221913582717029277
+      HowToPlay_6: -2878271556306509993
+      HowToPlay_7: 6392706351827264714
+      HowToPlay_8: 8974988128736816453
+      HowToPlay_9: -3280721755099210238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
